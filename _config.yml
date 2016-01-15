@@ -1,0 +1,26 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2453626
+color:
+  saturation: 0.7816189
+  brandStrength: 0.3195615
+  lightness: 0.2504216
+  brandColors:
+    - '#CFDFF2'
+    - '#1E1F20'
+    - '#808A90'
+    - '#424341'
+    - '#5D6366'
+  rhythmicContrast: 0.7428331
+layout_spectrum: 1
+name: GT Tester

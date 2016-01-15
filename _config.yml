@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0.2453626
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.3010118
 color:
   saturation: 0.7816189
-  lightness: 0.2504216
-  brandStrength: 0.007405776
+  brandStrength: 0.8524452
+  lightness: 0.2807757
   brandColors:
-    - '#CFDFF2'
-    - '#1E1F20'
-    - '#808A90'
-    - '#424341'
-    - '#5D6366'
+    - '#FFFEF0'
+    - '#006FBD'
+    - '#000000'
+    - '#004A7E'
+    - '#78AECE'
   rhythmicContrast: 0.7428331
+layout_spectrum: 0
 name: GT Tester

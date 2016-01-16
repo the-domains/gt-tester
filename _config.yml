@@ -1,7 +1,7 @@
 name: GT Tester
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.3010118
+typography_spectrum: 0.62012
 collections:
   - index:
       path: /

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GT Tester]]></title>
+        <description><![CDATA[GT Tester]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Jan 2016 21:15:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GRISSOM TECHNOLOGY]]></title>
+            <description><![CDATA[<article><h1>GRISSOM TECHNOLOGY</h1><h2>A DEDICATED, IT SERVICES COMPANY</h2></article>]]></description>
+            <link>undefinedgrissom-technology/index.html</link>
+            <guid isPermaLink="false">30536999-f978-495a-9bd8-b12fbfd2a608</guid>
+            <pubDate>Sat, 16 Jan 2016 21:15:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

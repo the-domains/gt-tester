@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T21:33:31.116Z'
-dateModified: '2016-01-16T21:15:48.807Z'
+datePublished: '2016-01-16T22:01:58.589Z'
+dateModified: '2016-01-16T22:01:47.307Z'
 title: GRISSOM TECHNOLOGY
 author: []
 sourcePath: _posts/2016-01-16-grissom-technology.md
@@ -25,3 +25,4 @@ _type: Article
 # GRISSOM TECHNOLOGY
 
 ## A DEDICATED, IT SERVICES COMPANY
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30178167-3d2d-4939-8cc6-e3cc4d2431b6.jpg)

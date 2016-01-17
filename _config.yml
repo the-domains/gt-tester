@@ -1,3 +1,7 @@
+name: GT Tester
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.27665
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.3010118
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2790894
-  brandStrength: 0.8086004
-  lightness: 0.8794267
   brandColors:
     - '#FFFEF0'
     - '#006FBD'
     - '#000000'
     - '#004A7E'
     - '#78AECE'
+  brandStrength: 0.8086004
+  lightness: 0.8794267
+  saturation: 0.2790894
   rhythmicContrast: 0.415683
-layout_spectrum: 0
-name: GT Tester
+purpose: []

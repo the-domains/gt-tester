@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T22:01:58.679Z'
-dateModified: '2016-01-16T22:01:47.307Z'
+datePublished: '2016-01-16T22:01:58.748Z'
+dateModified: '2016-01-16T22:01:58.573Z'
 title: GRISSOM TECHNOLOGY
 author: []
 sourcePath: _posts/2016-01-16-grissom-technology.md

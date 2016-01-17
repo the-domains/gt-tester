@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T22:38:22.657Z'
-dateModified: '2016-01-16T22:38:19.689Z'
+datePublished: '2016-01-16T22:38:22.691Z'
+dateModified: '2016-01-16T22:38:22.523Z'
 authors: []
 publisher:
   name: null

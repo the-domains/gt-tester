@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:39:55.002Z'
-dateModified: '2016-01-18T20:38:53.090Z'
+datePublished: '2016-01-18T20:50:29.402Z'
+dateModified: '2016-01-18T20:50:26.896Z'
 title: GRISSOM TECHNOLOGY
 author: []
 sourcePath: _posts/2016-01-16-grissom-technology.md

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GRISSOM TECHNOLOGY]]></title>
+        <description><![CDATA[GRISSOM TECHNOLOGY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 16:44:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Server Support]]></title>
+            <description><![CDATA[<article><h1>Server Support</h1><p>Grissom Technology matches technical expertise to the services you need. Every environment is different and has different needs. Our support is designed to be flexible to ensure that you are getting exactly what you need and not having to pay for anything more. We offer monthly service agreements for managed IT services. Your company will receive a dedicated computer network consultant and a set amount of hours. The agreements are based on a company's computer network size. Basic service includes desktop support, networking computers, firewall setups and server maintenance. Monitoring of your systems is also a part of the monthly agreements. Monitors will be setup on servers and desktops and will notify GT if alerts are triggered. Examples of alerts are, disk space, online status, memory and cpu excessive use and services stopped. Our goal is to take care of all your computer, server and network support needs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94f439f2013547e156b8f26c302394691a42c5c8.jpg"></article>]]></description>
+            <link>undefinedserver-support/index.html</link>
+            <guid isPermaLink="false">e7e31ca5-b921-43b1-9623-3ff748cd36f5</guid>
+            <pubDate>Sat, 23 Apr 2016 16:44:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
